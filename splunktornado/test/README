@@ -1,0 +1,3 @@
+Be sure to set PYTHONPATH apprioriately (generally to the root directory of your
+splunktornado checkout) when running tests to make sure you're getting the
+version of the splunktornado package that you expect.
