@@ -1,0 +1,5 @@
+Implementation of Splunk authentication scheme for Tornado
+=======
+See http://www.tornadoweb.org/ and http://www.splunk.com
+
+
